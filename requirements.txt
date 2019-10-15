@@ -1,2 +1,8 @@
+django
 gunicorn
 django-heroku
+whitenoise
+black
+flake8
+coverage
+python-coveralls
